@@ -1,0 +1,8 @@
+D:\try\周黑鸭工厂\bin\Debug\周黑鸭工厂.exe.config
+D:\try\周黑鸭工厂\bin\Debug\周黑鸭工厂.exe
+D:\try\周黑鸭工厂\bin\Debug\周黑鸭工厂.pdb
+D:\try\周黑鸭工厂\obj\Debug\周黑鸭工厂.csproj.AssemblyReference.cache
+D:\try\周黑鸭工厂\obj\Debug\周黑鸭工厂.csproj.SuggestedBindingRedirects.cache
+D:\try\周黑鸭工厂\obj\Debug\周黑鸭工厂.csproj.CoreCompileInputs.cache
+D:\try\周黑鸭工厂\obj\Debug\周黑鸭工厂.exe
+D:\try\周黑鸭工厂\obj\Debug\周黑鸭工厂.pdb
